@@ -1,0 +1,5 @@
+# ninja log v5
+8	597	7975506779583556	CMakeFiles/power_quality_analyser.dir/main.c.obj	e0d11db776a659d3
+30	387	7974624669283244	CMakeFiles/power_quality_analyser.dir/io.c.obj	7707863fdcac0c0c
+64	594	7974608111344836	CMakeFiles/power_quality_analyser.dir/waveform.c.obj	79d8adade4c66657
+599	1118	7975506784745925	power_quality_analyser.exe	f756da661d017906
